@@ -1,0 +1,38 @@
+.header {
+    background-color:aqua;
+    border:10px solid rgb(30, 135, 226);
+    width: 1500px;
+    height: 150px
+  }
+
+
+  .header nav ul li{
+    display: inline-block;
+    font-size: 35px;
+    padding: 10px
+  }
+  
+
+  #jackolantern {
+    position: relative;
+  left: 300px;
+
+  }
+  
+  .about-me {
+    background-color:rgb(30, 135, 226);
+    width: 1500px;
+    height: 100px
+  }
+
+  .work-portfolio {
+    background-color:rgb(30, 135, 226);
+    width: 1500px;
+    height: 100px
+  }
+
+  .footer {
+    background-color:rgb(30, 135, 226);
+    width: 1500px;
+    height: 100px
+  }
